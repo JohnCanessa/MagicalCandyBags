@@ -9,7 +9,7 @@ The idea is to eat as many pieces of candy as you can in the alloted time.
 
 If interested in my approach I invite you to visit the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/01/06/magical-candy-bars-in-java/
 
 Remember that one of the best ways to learn is to read and experiemnt!
 
